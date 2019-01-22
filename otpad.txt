@@ -1,0 +1,20 @@
+  //mijenjanje scene klikom na pin
+  function myFunction0() {
+	  switchScene(findSceneById(0-img_20181113_135925_1820330640));
+  }
+  function myFunction1() {
+	  switchScene(findSceneById(1-img_20181113_140005_507587671));
+  }
+  function myFunction2() {
+		switchScene(findSceneById(2-img_20181113_140107_507587687));
+  }
+  function myFunction3() {
+		switchScene(findSceneById(3-img_20181113_140518_507587703));
+  }
+  function myFunction4() {
+		switchScene(findSceneById(4-img_20181113_140601_507587718));
+  }
+  function myFunction5() {
+		switchScene(findSceneById(5-img_20181113_140658_507587750));
+  }
+	  
